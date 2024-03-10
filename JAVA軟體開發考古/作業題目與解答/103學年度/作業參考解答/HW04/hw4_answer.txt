@@ -1,0 +1,22 @@
+--001--
+[Java Chip Frappuccino,   5.00, 5, 5, 0.00]
+[Caffé Latte,             3.00, 4, 2, 1.00]
+[Cappuccino,              2.67, 4, 1, 1.53]
+[Espresso,                1.50, 2, 1, 0.71]
+--002--
+[Caramel Frappuccino,     3.50, 5, 2, 1.29]
+[Ristretto Bianco,        2.75, 5, 1, 1.71]
+[Signature Hot Chocolate, 2.50, 4, 1, 1.29]
+--003--
+[Dark Mocha Frappuccino®, 3.00, 5, 1, 1.58]
+--004--
+[Caramel Frappuccino®,    3.89, 5, 2, 1.36]
+[Espresso Macchiato,      3.67, 5, 2, 1.12]
+[Caffé Americano,         3.44, 5, 1, 1.33]
+[Espresso Con Panna,      3.44, 5, 1, 1.59]
+[Ristretto Bianco,        3.11, 5, 1, 1.27]
+[Dark Mocha Frappuccino®, 3.00, 5, 1, 1.50]
+[Kid's Hot Chocolate,     3.00, 5, 1, 1.32]
+[Espresso Frappuccino®,   2.67, 5, 1, 1.12]
+[Iced Caffé Latte,        2.44, 5, 1, 1.59]
+[Iced Signature Chocolate,2.11, 5, 1, 1.36]

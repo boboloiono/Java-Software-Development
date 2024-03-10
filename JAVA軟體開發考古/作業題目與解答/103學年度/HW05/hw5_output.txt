@@ -1,0 +1,10 @@
+asus => ass, usa, 
+htc => 
+sony => nos, nosy, son, soy, yon, 
+yahoo => ahoy, hay, oho, ooh, yahoo, 
+nike => ink, ken, kin, kine, 
+puma => amp, amu, map, puma, ump, 
+casio => cia, ciao, sac, sci, sic, soc, 
+benq => ben, neb, 
+canon => ann, anno, anon, can, canon, con, conn, nan, non, 
+nikon => ikon, ink, inn, ion, kin, non, oink, 
